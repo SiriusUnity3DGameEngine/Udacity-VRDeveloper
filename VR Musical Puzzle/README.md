@@ -16,6 +16,8 @@ I've learned a lot about the creative process of design, mechanics, movement, do
 
 ## How to run
 
+**Tested on Unity 5.5.1f1 and GVR 5.0.3**
+
 To run the VR experiences you will need to follow these steps:
 
 - Download the Google GVR SDK for Unity indicated on the README.md project 
