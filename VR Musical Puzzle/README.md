@@ -1,9 +1,10 @@
 # VR Musical Puzzle
 
+In this Udacity VR developer project the purpose is design a puzzle inspired in the popular Simon says game, where orbs play a sequence that user needs to repeat. Along with the process of design, there are user tests and documentation of all the steps of the work.
+
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/VR%20Musical%20Puzzle/Documentation/Start.png?raw=true)
 ![alt ta](https://github.com/devreis/Udacity-VRDeveloper/blob/master/VR%20Musical%20Puzzle/Documentation/Play.png?raw=true)
 
-In this Udacity VR developer project the purpose is design a puzzle inspired in the popular Simon says game, where orbs play a sequence that user needs to repeat. Along with the process of design, there are user tests and documentation of all the steps of the work.
 
 ## The process  
 
