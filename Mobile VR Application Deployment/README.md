@@ -1,19 +1,22 @@
-# Victor Reis
+# Mobile VR Application Deployment
 
-### Time to conclude the project
+In this project the user activates animations clicking optins in the menu located in the bottom.
 
-	•	70 minutes: see the videos and play in Unity app
-	•	20 minutes: install/setup Unity, Java and Android Studio
-	•	20 minutes: make the app work as intended
-	    
-	    Total: 110 minutes
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Mobile%20VR%20Application%20Deployment/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2021.19.41.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Mobile%20VR%20Application%20Deployment/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2021.19.52.png?raw=true)
 
-### What i liked
+## My experience
+ Here i've learned how to work with a done project, navigate and customize some settings in Unity and deploy/build to mobile.
 
-The Unity interface is very easy to work!
+## How to run
 
-### What was challenging
+To run the VR experiences you will need to follow these steps:
 
-Find a good way to present the description below the Hello World
+- Download the Google GVR SDK for Unity indicated on the README.md project 
+- Open the downloaded project and click the GVR Unity installer and import all
+- Build and export the app for your platform 
 
+###If you see any Unity error follow these steps:
 
+- Select the option **Import All** in Unity
+- Restart the Project
