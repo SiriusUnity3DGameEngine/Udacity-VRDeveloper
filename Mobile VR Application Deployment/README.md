@@ -10,6 +10,8 @@ In this project the user activates animations clicking optins in the menu locate
 
 ## How to run
 
+**Tested on Unity 5.5.1f1 and GVR 5.0.3**
+
 To run the VR experiences you will need to follow these steps:
 
 - Download the Google GVR SDK for Unity indicated on the README.md project 
