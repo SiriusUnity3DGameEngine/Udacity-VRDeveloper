@@ -2,10 +2,10 @@
 
 In this experience the user can teleport through the spaces via waypoints to see the details of the apartment.
 
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2017.22.13.png?raw=true)
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2017.22.45.png?raw=true)
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2017.24.32.png?raw=true)
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2017.25.31.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/DoorView.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/Globeview.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/KitchenView.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/RoomView.png?raw=true)
 
 
 
