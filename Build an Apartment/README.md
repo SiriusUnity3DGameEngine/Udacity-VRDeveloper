@@ -5,8 +5,7 @@ In this experience the user can teleport through the spaces via waypoints to see
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/DoorView.png?raw=true)
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/Globeview.png?raw=true)
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/KitchenView.png?raw=true)
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/RoomView.png?raw=true)
-
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/RoomView.png?raw=true) 
 
 
 ##Development and experience
