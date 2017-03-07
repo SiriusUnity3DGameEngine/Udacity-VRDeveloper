@@ -22,6 +22,7 @@ To run the VR experiences you will need to follow these steps:
 
 - Download the Google GVR SDK for Unity indicated on the README.md project 
 - Open the downloaded project and click the GVR Unity installer and import all
+- Download iTween free from the assets store
 - Build and export the app for your platform 
 
 ### If you see any Unity error follow these steps:
