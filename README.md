@@ -14,6 +14,8 @@ These are my projects developed in the Udacity VR Developer Nanodegree:
 
 ## How to run
 
+- If you have an Android device, just install the apk located in the project's folder _Build_
+
 To run the VR experiences you will need to follow these steps:
 
 - Download the Google GVR SDK for Unity indicated on the README.md project 
