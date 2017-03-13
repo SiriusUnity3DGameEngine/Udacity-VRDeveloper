@@ -2,7 +2,7 @@
 
 In this maze the player moves through waypoints to find the hidden key that opens the gate. Along the way coins can be collected. 
 
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Maze/Screenshots/Captura%20de%20Tela%202017-02-22%20às%2021.41.17.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Maze/Screenshots/BirdView.png?raw=true)
 
 ## The process
 
