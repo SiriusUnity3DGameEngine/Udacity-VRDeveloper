@@ -1,8 +1,8 @@
-#Maze
+# Maze
 
 In this maze the player moves through waypoints to find the hidden key that opens the gate. Along the way coins can be collected. 
 
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Maze/Screenshots/BirdView.png?raw=true)
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Maze/Screenshots/AerialFrontView.png?raw=true)
 
 ## The process
 
