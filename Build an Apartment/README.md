@@ -10,8 +10,8 @@ In this experience the user can teleport through the spaces via waypoints to see
 
 ##Development and experience
 
-In this project i learned and put into practice the lessons about lightning (light baking and kinds of lights); animation (making the globe rotates through the animator); performance optimization in Unity with Mobile/Unlit shaders, Static lights/objects, Quality and Lightmap Settings (the project was intended to Cardboard, so it's important that it runs in constant and high FPS).  Also i learned how to use Google VR SDK for Unity and deploy my project properly.
-For this project, i designed the starry night skybox in Adobe Photoshop and recorded the street sounds.
+In this project I learned and put into practice the lessons about lightning (light baking and kinds of lights); animation (making the globe rotates through the animator); performance optimization in Unity with Mobile/Unlit shaders, Static lights/objects, Quality and Lightmap Settings (the project was intended to Cardboard, so it's important that it runs in constant and high FPS).  Also I learned how to use Google VR SDK for Unity and deploy my project properly.
+For this project, I designed the starry night skybox in Adobe Photoshop and recorded the street sounds.
 
 ## How to run
 
