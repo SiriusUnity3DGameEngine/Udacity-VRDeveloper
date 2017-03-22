@@ -5,10 +5,14 @@ using UnityEngine;
 public class Chest : MonoBehaviour {
 
 	public GameObject top; 
+	public GameObject chestCollider;
+	public GameObject chestPoof;
 
 	public void OnChestClicked(){
-
-		top.transform.Rotate (50f, 0f, 0f);
+		
+		Instantiate(chestPoof,transform.position, Quaternion.Euler(-150,0,0));
+		top.transform.Rotate (35f, 0f, 0f);
+		Destroy (chestCollider);
 		
 	}
 }

@@ -9,6 +9,12 @@ public class Key : MonoBehaviour
 	public Door doorOpen;
 	public static bool gotKey;
 
+	void Start()
+	{
+
+		gotKey = false;
+	} 
+
 	public void OnKeyClicked()
 	{
 		

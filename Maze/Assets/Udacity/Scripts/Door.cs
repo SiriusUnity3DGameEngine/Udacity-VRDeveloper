@@ -12,14 +12,16 @@ public class Door : MonoBehaviour
 	public AudioClip closedGate;
 	public GameObject leftDoor;
 	public GameObject rightDoor;
+	public GameObject collider1;
 
 
 	public void OnDoorClicked(){
 		//
 		if (Key.gotKey == true) {
-			leftDoor.transform.Rotate (0f, 80f, 0f);
-			rightDoor.transform.Rotate (0f, 80f, 0f);
 			//transform.Translate (0, 15f, 0, Space.World);
+			leftDoor.transform.Rotate (0f, 0f, 80f);
+			rightDoor.transform.Rotate (0f, 0f, -80f);
+			Destroy(collider1);
 			doorSound.PlayOneShot (openGate);
 		} else {
 			doorSound.PlayOneShot (closedGate);
