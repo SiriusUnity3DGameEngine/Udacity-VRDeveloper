@@ -1,4 +1,4 @@
-# Gallert of VR innovation
+# Gallery of VR innovation
 
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/GalleryVrInnovation/Screenshots/1waypoint.png?raw=true)
 
