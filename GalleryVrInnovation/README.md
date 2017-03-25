@@ -1,4 +1,6 @@
-# VR Innovations in architecture 
+# Gallert of VR innovation
+
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/GalleryVrInnovation/Screenshots/1waypoint.png?raw=true)
 
 Built this project as a result of a research on areas impacted by Virtual Reality. The intent of this experience is present the innovations provided by VR on architecture through an interactive way, informing and amusing the user.
 
