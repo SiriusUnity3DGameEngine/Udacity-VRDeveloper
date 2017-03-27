@@ -1,4 +1,4 @@
-#Build an Apartment
+# Build an Apartment
 
 In this experience the user can teleport through the spaces via waypoints to see the details of the apartment.
 
@@ -8,7 +8,7 @@ In this experience the user can teleport through the spaces via waypoints to see
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Build%20an%20Apartment/Screenshots/RoomView.png?raw=true) 
 
 
-##Development and experience
+## Development and experience
 
 In this project I learned and put into practice the lessons about lightning (light baking and kinds of lights); animation (making the globe rotates through the animator); performance optimization in Unity with Mobile/Unlit shaders, Static lights/objects, Quality and Lightmap Settings (the project was intended to Cardboard, so it's important that it runs in constant and high FPS).  Also I learned how to use Google VR SDK for Unity and deploy my project properly.
 For this project, I designed the starry night skybox in Adobe Photoshop and recorded the street sounds.
@@ -23,7 +23,7 @@ To run the VR experiences you will need to follow these steps:
 - Open the downloaded project and click the GVR Unity installer and import all
 - Build and export the app for your platform 
 
-###If you see any Unity error follow these steps:
+### If you see any Unity error follow these steps:
 
 - Select the option **Import All** in Unity
 - Restart the Project
