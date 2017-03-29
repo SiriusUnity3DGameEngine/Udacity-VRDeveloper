@@ -14,6 +14,10 @@ Make this project was amazing, I had a lot of joy creating the materials and the
 
 ## How to run
 
+### Android
+
+Download and install the [.apk](https://www.dropbox.com/s/0vm6x7ntre137bi/GalleryVRInnovation.apk?dl=0)
+
 **Tested on Unity 5.5.1f1 and GVR 5.0.3**
 
 To run the VR experience you will need to follow these steps:
@@ -25,7 +29,7 @@ To run the VR experience you will need to follow these steps:
 - Import AVPro Video package on Unity
 - Build and export the app for your platform 
 
-###If you see any Unity error follow these steps:
+### If you see any Unity error follow these steps:
 
 - Select the option **Import All** in Unity
 - Restart the Project
