@@ -2,10 +2,11 @@
 
 These are my projects developed in the Udacity VR Developer Nanodegree:
 
-### Musical Puzzle
-![alt tag](https://github.com/devreis/Udacity-VRDeveloper/raw/master/VR%20Musical%20Puzzle/Documentation/Start.png?raw=true)
+
 ### Gallery of VR innovation
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/GalleryVrInnovation/Screenshots/1waypoint.png?raw=true)
+### Musical Puzzle
+![alt tag](https://github.com/devreis/Udacity-VRDeveloper/raw/master/VR%20Musical%20Puzzle/Documentation/Start.png?raw=true)
 ### Maze
 ![alt tag](https://github.com/devreis/Udacity-VRDeveloper/blob/master/Maze/Screenshots/AerialFrontView.png?raw=true)
 ### Build an apartment
